@@ -1,0 +1,18 @@
+.App {
+  margin-left: 20%;
+  margin-top: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.App h1 {
+  margin-bottom: 20px;
+}
+
+.App img {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.App h3 {
+  margin: 10px 0;
+}

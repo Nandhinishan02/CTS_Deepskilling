@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 140px;
+  font-family: Arial, sans-serif;
+}
+
+.course,
+.book,
+.blog {
+  width: 250px;
+  min-height: 320px;
+  padding: 0 45px;
+  box-sizing: border-box;
+}
+
+.course {
+  border-right: 4px solid green;
+}
+
+.book {
+  border-right: 4px solid green;
+}
+
+.blog {
+  border-right: none;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+h4 {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0 0 15px 0;
+}
+
+h5 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+p {
+  font-size: 14px;
+  margin: 0 0 25px 0;
+}
